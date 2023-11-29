@@ -1,0 +1,712 @@
+fileFormatVersion: 2
+guid: aab06b19d261d7b47a986cecfe992cca
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Regular Fire Template_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d365d352392354999f4d336929f026
+      internalID: 630931073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 485.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975a03d71c111f24a8c996209361da97
+      internalID: 1425144639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 485.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5068cd7b820c92e4aa96b72e3e6dd30d
+      internalID: -1494723440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 485.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a53747cd68d3454096db20b860b01e3
+      internalID: -1347314535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 485.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1641cd785512e4cb7bee2659ad0be2
+      internalID: -1734225507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f70b7a6c9a13954398ac9f51b1f4dd1
+      internalID: 2083205194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 388.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e75652117cfff445a4358fb32349374
+      internalID: 521871768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 388.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3528dfdfd0709488377755f3d8c721
+      internalID: 475038998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 388.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fa344e4a297aa438e1c2f53796bcfd
+      internalID: -1033389957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 388.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25d13afff9b11d4ea613e2c2efcdb53
+      internalID: 611199544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363cb75915851c642b360fcc3a176ef6
+      internalID: -838682913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 291.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec810d4e2da45b46b62d843db2d95b6
+      internalID: 1390240844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 291.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c064b8116d58144b90faa21e403b174
+      internalID: 355922764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 291.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c93279164cb1d48abbb51be2c7c68b
+      internalID: -1781452065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 291.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89634f41048fe3645afd0d9771500d58
+      internalID: -1804190322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f03962354a86a429f1ea7aa906fbcc
+      internalID: -1536696393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 194.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64055dcf446967b46935c82026ed1301
+      internalID: 1016737446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 194.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac456366f8acfa47b3b6bd9b5bbbadb
+      internalID: 1695411923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 194.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a11961a9486c2741a1f702de1ff977e
+      internalID: 355868721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 194.83334
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bfad781e1995c44a845d0242707e1b
+      internalID: -875857184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97.833336
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ee5f1def3701e4ea4af88cf065b137
+      internalID: 1683328244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 97.833336
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99519dd6f07f0734abaae79b1f57b5f1
+      internalID: -1467001111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 97.833336
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ab4e5e464a03a4ca7b53fe3a5cefa1
+      internalID: -61230942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 97.833336
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8ba41da780341438173b3062290ae0
+      internalID: 194270994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 97.833336
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6977da147dcc4b45b02042467e450dd
+      internalID: 942273968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular Fire Template_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.8333359
+        width: 85.6
+        height: 97.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f585e0d11095444d99ff64bb0f62141
+      internalID: 1611014339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2ec3a7dd25cadc44a89cfb6f0b960264
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Regular Fire Template_0: 630931073
+      Regular Fire Template_1: 1425144639
+      Regular Fire Template_10: -838682913
+      Regular Fire Template_11: 1390240844
+      Regular Fire Template_12: 355922764
+      Regular Fire Template_13: -1781452065
+      Regular Fire Template_14: -1804190322
+      Regular Fire Template_15: -1536696393
+      Regular Fire Template_16: 1016737446
+      Regular Fire Template_17: 1695411923
+      Regular Fire Template_18: 355868721
+      Regular Fire Template_19: -875857184
+      Regular Fire Template_2: -1494723440
+      Regular Fire Template_20: 1683328244
+      Regular Fire Template_21: -1467001111
+      Regular Fire Template_22: -61230942
+      Regular Fire Template_23: 194270994
+      Regular Fire Template_24: 942273968
+      Regular Fire Template_25: 1611014339
+      Regular Fire Template_3: -1347314535
+      Regular Fire Template_4: -1734225507
+      Regular Fire Template_5: 2083205194
+      Regular Fire Template_6: 521871768
+      Regular Fire Template_7: 475038998
+      Regular Fire Template_8: -1033389957
+      Regular Fire Template_9: 611199544
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
