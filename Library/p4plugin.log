@@ -1,0 +1,6 @@
+p1:-1 1 E:\\UnityProjects\\2D Myth Project\\Assets\\Animation\\Nezha.meta
+Can't clobber writable file E:\UnityProjects\2D Myth Project\Assets\Animation\Nezha.meta
+
+e1:Can't clobber writable file E:\\UnityProjects\\2D Myth Project\\Assets\\Animation\\Nezha.meta\n
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
