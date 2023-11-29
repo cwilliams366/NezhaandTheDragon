@@ -1,0 +1,1988 @@
+fileFormatVersion: 2
+guid: e2088651cf729804fbd42c43a08dc05e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lucario Set_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 251
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6156661d0f1f84aa71c6013905328b
+      internalID: 273814690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 251
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec21489a37b2a6a4b87d8f1dd56d098c
+      internalID: -843110753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 251
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef83d9440031e5468ffc53351e4d4d6
+      internalID: -1077911435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 252
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29b88da6d350eb47b53318c1c5702b7
+      internalID: 2093542672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 251
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4717a8181e7ff6b4584e2f98fdf23529
+      internalID: 1108383915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 251
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872cc4b3c19150e43a44f9f384a02111
+      internalID: -1076866205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 251
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf1d412ef259964faa83a0fde51541d
+      internalID: -330033838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 251
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1b61c0f1383ca4f9c5e20c41690b69
+      internalID: 1859509833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 251
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2dfb8a0f4048c4b92d9062888659b1
+      internalID: 529616871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_9
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 251
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a01b5d1161fab478d4a2fcc3f8d7ce
+      internalID: -313243379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_10
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 251
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44c9e35f49ed7e48963a7e47003d73f
+      internalID: -103589185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_11
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 251
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3777594fd3a3a14492481d59d34ec8a
+      internalID: 1140656608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_12
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 252
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84b117248af9e74ca731bc851e80565
+      internalID: 2109676724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_13
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 252
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56152825d81ff56448b56271a0ee6b6f
+      internalID: -1202223534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_14
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 251
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1070614f481c63e42a6a026752e05adf
+      internalID: 2034936014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 201
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503914b4d27136b4191f5fd2359589c5
+      internalID: 2081134938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 200
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b45f742c32bba48bfcc0274a440884
+      internalID: 2101337842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 199
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0813ad6941540b4aa51394b86515471
+      internalID: 238920124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 202
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6e23c7e5af83245a619a53fb0f9131
+      internalID: -2106360558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 199
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de97b7f14517b3740bf152473eef6dd9
+      internalID: -1640617194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 199
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3230a973f0ea4e345a5d3e45f9b50cfc
+      internalID: -768552778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 198
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf8e507ed9a7f24ea933d1d8fd76304
+      internalID: 1331902316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 198
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ece8c91959f44478ec7023b7dc34a7
+      internalID: -1325156224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 198
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cedabb4af670e848a9f5fdbff0186ef
+      internalID: -1587943273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_24
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 198
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6aa263a2e63ba74d9ea2e72d1ed879f
+      internalID: 1166153101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_25
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 198
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e375ac05ef8a14e4f90613b6e1f567c9
+      internalID: 840732581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_26
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 198
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3bde9875d177949a34ea0a0382f826
+      internalID: 1030288821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_27
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 198
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4be98e4b83bdf8489f21506026443c0
+      internalID: -1480690071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_28
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 198
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71abfbe27833bbd40a8a501730109d6e
+      internalID: -2057551121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_29
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 198
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e9676fb231c6c4f9c38c16df5dd1fd
+      internalID: 1634490680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_30
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 198
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d7e22a150cd1647920bdf7282c8f15
+      internalID: 1458441766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_31
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 199
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a5e1042076f65408d7875285027c63
+      internalID: -1702737117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_32
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 199
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ee681bac9804a4f9ee49fb7a8e509a
+      internalID: -257921866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_33
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 198
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e50569d0d5bd949ba86771528254cd
+      internalID: 979603744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_34
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 198
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15a621bd46b2c545bcd01e0c3a1a353
+      internalID: -231653874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6542d152d330f459b5522ad5912248
+      internalID: 306211733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 143
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e33478056856a4a986edcf96b2bf3a
+      internalID: -1265909147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 143
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee9d2e7e34630747afedc29837043b1
+      internalID: -1616111338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 143
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d04e029c0ef454aad07ac4247dd754
+      internalID: -1497401800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_39
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 143
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3a329b59ce37c40a01d224cedcc0ee
+      internalID: 1462428859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 143
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d7528a9e96a424187dcda2458f1567
+      internalID: 1314169629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_41
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 142
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae30a6bd8e4330a4182ad0524cb23d5a
+      internalID: 1165329763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_42
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 143
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e566ada71e9e80459301cdcff5261e4
+      internalID: -860367106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_43
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 143
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e93dfce6e8b72459849f687101f3de
+      internalID: 1894364964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_44
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 143
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0ec3e23beb66141b3ba5b527bca9b1
+      internalID: -164215689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_45
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 142
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d892161faa02d47b58ee332d467d46
+      internalID: -2051613544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_46
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 141
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032cd59fb2a47754bb5292c6c3fd414a
+      internalID: -1658612888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_47
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 141
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fd41de2ee63074eb109afb0504957c
+      internalID: -1312338615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_48
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 141
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b099c3819a75c54392ed9c1539d0b32
+      internalID: -2054153879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_49
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 141
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd6dbae5459ebc47891f27522c2b9ef
+      internalID: -66931722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_50
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 141
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9df8e85eda45c543adb00b0259e04e8
+      internalID: -307522800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 141
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fac0ffc644c8b429b3b15ec2665eed
+      internalID: 242355837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_52
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 141
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423b2d9e03d9d014b82b631f6d69d8f6
+      internalID: -470530875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_53
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 141
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e75626a54789d4f8e22f4b49d6bd74
+      internalID: 661569833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_54
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 141
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1167d2b3dc24794293d1e5f78588852
+      internalID: 1944544608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_55
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 141
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9f74dde31281f409970a75d04d270b
+      internalID: -996161395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 82
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001127552d281514d9d5c5369336e848
+      internalID: -436914830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 82
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fa145b7422257449d2953eb1b695ff
+      internalID: -1549940470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_58
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 81
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1750818a10dbde844a4917c035495f10
+      internalID: 959527643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_59
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 81
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc3d355d0c91f1479d771ebd838caa9
+      internalID: 1095144003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_60
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 82
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346955d1b1cced749b27b1ad051fed07
+      internalID: -1190061279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 82
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95891a21ae55454b972a44303fe5e83
+      internalID: -1377793172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 82
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e203d3b09a9adc647a67644a515f467e
+      internalID: -1291454767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_63
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 81
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240841f54bd05bf4abae82b42113fd19
+      internalID: -496517714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_64
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 82
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b90fc2a7b5e3641aebebb48d50d6e2
+      internalID: 570983203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_65
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 83
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92b1af19b8bc03499d8d924c20e21c3
+      internalID: 2788455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_66
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 83
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6efabc24345ee40bd7332b147a5fb2
+      internalID: -894445215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_67
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 83
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b04b4c26b664c6439884dc74eb24872
+      internalID: -236537097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_68
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 82
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0299eb04d4485634e8ee17b57586b227
+      internalID: -1261789812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_69
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 82
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba8bc466e6284a4cb36517fe85a7267
+      internalID: -523057720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_70
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 82
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851bd756a89566d46ab84bb7e230ca97
+      internalID: 1600124626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_71
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 82
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d81f3edd025ea49891bfb0746dbd7c
+      internalID: -680751551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_72
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 82
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed309fe9011a0f449cebc8956e84767
+      internalID: -526116794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_73
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 82
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff8d724147a6764e8979f6894a732d2
+      internalID: -1529377716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_74
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 20
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ac02aaa34ffa24e82a0a352353a523
+      internalID: -1621800557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_75
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 20
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e03d92c4a1de940b581e8ddb1ed39c
+      internalID: -427126306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_76
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 20
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c17fa7325e7d442a7cd458fdc79596
+      internalID: 1050119989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_77
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 20
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e0ab3d22057c4449d20476f71b671b
+      internalID: 1108750044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_78
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 20
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd64efe49be0a5347ad7e54c4aeee568
+      internalID: -1936520411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_79
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 20
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93f7393cebce2c45b069c9c5c002754
+      internalID: -1356705409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_80
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 20
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0009d795ff1df4780051707f7ae20e
+      internalID: 552289155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_81
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 20
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1717d27c4186946b6175f6dcb03b3b
+      internalID: 2016152801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_82
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 20
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e586687b9386b3469a851ae875da536
+      internalID: -914938515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucario Set_83
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 20
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1e8e4e5947375408755bf952990099
+      internalID: -636594982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1332b4c5a9046f641bafd8d14634a55b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lucario Set_0: 273814690
+      Lucario Set_1: -843110753
+      Lucario Set_10: -103589185
+      Lucario Set_11: 1140656608
+      Lucario Set_12: 2109676724
+      Lucario Set_13: -1202223534
+      Lucario Set_14: 2034936014
+      Lucario Set_15: 2081134938
+      Lucario Set_16: 2101337842
+      Lucario Set_17: 238920124
+      Lucario Set_18: -2106360558
+      Lucario Set_19: -1640617194
+      Lucario Set_2: -1077911435
+      Lucario Set_20: -768552778
+      Lucario Set_21: 1331902316
+      Lucario Set_22: -1325156224
+      Lucario Set_23: -1587943273
+      Lucario Set_24: 1166153101
+      Lucario Set_25: 840732581
+      Lucario Set_26: 1030288821
+      Lucario Set_27: -1480690071
+      Lucario Set_28: -2057551121
+      Lucario Set_29: 1634490680
+      Lucario Set_3: 2093542672
+      Lucario Set_30: 1458441766
+      Lucario Set_31: -1702737117
+      Lucario Set_32: -257921866
+      Lucario Set_33: 979603744
+      Lucario Set_34: -231653874
+      Lucario Set_35: 306211733
+      Lucario Set_36: -1265909147
+      Lucario Set_37: -1616111338
+      Lucario Set_38: -1497401800
+      Lucario Set_39: 1462428859
+      Lucario Set_4: 1108383915
+      Lucario Set_40: 1314169629
+      Lucario Set_41: 1165329763
+      Lucario Set_42: -860367106
+      Lucario Set_43: 1894364964
+      Lucario Set_44: -164215689
+      Lucario Set_45: -2051613544
+      Lucario Set_46: -1658612888
+      Lucario Set_47: -1312338615
+      Lucario Set_48: -2054153879
+      Lucario Set_49: -66931722
+      Lucario Set_5: -1076866205
+      Lucario Set_50: -307522800
+      Lucario Set_51: 242355837
+      Lucario Set_52: -470530875
+      Lucario Set_53: 661569833
+      Lucario Set_54: 1944544608
+      Lucario Set_55: -996161395
+      Lucario Set_56: -436914830
+      Lucario Set_57: -1549940470
+      Lucario Set_58: 959527643
+      Lucario Set_59: 1095144003
+      Lucario Set_6: -330033838
+      Lucario Set_60: -1190061279
+      Lucario Set_61: -1377793172
+      Lucario Set_62: -1291454767
+      Lucario Set_63: -496517714
+      Lucario Set_64: 570983203
+      Lucario Set_65: 2788455
+      Lucario Set_66: -894445215
+      Lucario Set_67: -236537097
+      Lucario Set_68: -1261789812
+      Lucario Set_69: -523057720
+      Lucario Set_7: 1859509833
+      Lucario Set_70: 1600124626
+      Lucario Set_71: -680751551
+      Lucario Set_72: -526116794
+      Lucario Set_73: -1529377716
+      Lucario Set_74: -1621800557
+      Lucario Set_75: -427126306
+      Lucario Set_76: 1050119989
+      Lucario Set_77: 1108750044
+      Lucario Set_78: -1936520411
+      Lucario Set_79: -1356705409
+      Lucario Set_8: 529616871
+      Lucario Set_80: 552289155
+      Lucario Set_81: 2016152801
+      Lucario Set_82: -914938515
+      Lucario Set_83: -636594982
+      Lucario Set_9: -313243379
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
