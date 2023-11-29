@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 815fc178a966de14d82e50dba165f76e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - magic: {fileID: 8759787327653445744, guid: b32d720db1afc294e868bcfd2e2358a8, type: 3}
+  - health: {fileID: 7235852630764921672, guid: d4bfaa6e0091aa84b8dd1cbde0c5689c, type: 3}
+  - talisman: {fileID: 7443298963043985974, guid: 116fab0c8ca9a7b47acb88ede7f1bfe1, type: 3}
+  - spirit: {fileID: 5541890784302866500, guid: 949a45459fd1eda4e950b6fec7e06b6e, type: 3}
+  - coin: {fileID: 3304403512717785717, guid: 384fa56592c13c24bb3ed58ebffd2f98, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
