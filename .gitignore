@@ -1,4 +1,7 @@
-Library
-obj
-packages
+Library/
+obj/
+packages/
+Logs/
+ProjectSettings/
 *.csproj
+UserSettings/
